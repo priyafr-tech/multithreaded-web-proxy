@@ -1,4 +1,7 @@
-# Multithreaded Web Proxy with Content Filtering and LRU Caching
+## 🚀 Multithreaded Web Proxy Server
+
+Python-based proxy server with content filtering and LRU caching.
+
 
 ## Team: Titans
 
